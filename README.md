@@ -1,2 +1,2 @@
-# CodeAlfa_Backgroud_Generator
-This is the Background Generator.
+# CodeAlpha_Project_Backgroud_Generator
+This is  Background Generator.
